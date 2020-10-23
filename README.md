@@ -25,6 +25,9 @@ As Time Delta i passed a long time on this one. The first solution i made was si
 
 
 ### Note about exercices i can't succed at all :
+
+I have finally unsucceed 7 exercices and i describe in this section which they are and why.
+
 ##### XML exercices
 All XML or HTML exercices were very hard for me. In fact this was the first time i manipulated those objects and i never coded HTML or XML. I finally success few of them in the regex parts but those in XML were to hard. Like the regex, i try to learn about it on the net but i would take a huge amount of time to learn deeply how to code XML. But i think i will learn more during the year.
 
