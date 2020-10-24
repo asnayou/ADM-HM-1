@@ -23,6 +23,9 @@ I get an _Wrong answer_ so i used 5 hackos to see my mystake. I don't understand
 ##### Word Order
 As Time Delta i passed a long time on this one. The first solution i made was simple and based on dictionnary : keys were words and values were occurences/frequences. Then i just had to print the length of the keys() to know the number of differents words and print the values for the number of occurencies. The result was a TimeOut Error. I thought is was due to the fact that my algorithm was comparing strings that took a long time. That is why i try an ASCII version of my code in order to accelerate calculs. But got the same result.
 
+##### Recursive digit
+Like the _Word order_ exercice, i got a problem of time. For 3 tests on 11 i got RunTime Error but i couldn't find why, because when i try with customs input, HackerRank return me an error due to the shape of the input (too hudge).
+
 
 ### Note about exercices i can't succed at all :
 
